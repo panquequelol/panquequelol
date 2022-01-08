@@ -1,4 +1,4 @@
-### ¡hola! 👋🏽
+### ¡Hola! 👋🏽
 
 My name is René Cáceres, I'm a Computer Science Student @ University of Santiago, Chile.
 
