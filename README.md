@@ -1,7 +1,8 @@
 ### ¡Hola! 👋🏽
 
-My name is René Cáceres, I'm a Computer Science Student @ University of Santiago, Chile.
+I'm René Cáceres, a Computer Science Student @ University of Santiago, Chile.
 
-I'm currently learning **JavaScript** and **Tailwind** trying to become a web developer and get a full time job sometime soon :^) 
+I'm currently learning **React** and **Tailwind** trying to become a web developer and get a full time job some time soon :^) 
+I post my progress almost daily at my [Twitter](https://twitter.com/byebyerene) 
 
-check my progress: [personal page](https://caceresrene.github.io/) 👈🏽
+Also check my [personal page](https://caceresrene.github.io/) 👈🏽
