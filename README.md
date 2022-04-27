@@ -1,7 +1,7 @@
 # ¡Hola! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 I'm Rene Caceres, a web developer based in Santiago, Chile. I love building beautiful interfaces, web apps, and everything in between.
 
-I've completed 1 year of Computer Science @ University of Santiago, Chile, and I'm currently about to graduate from a 14-week intensive coding bootcamp where I'm learning Full Stack Web Development
+I've completed 1 year of Computer Science @ University of Santiago, Chile, and I'm currently in week 10 from a 14-week intensive coding bootcamp where I'm learning Full Stack Web Development
 
 When I'm not in front of a computer screen, I'm probably either building or talking about mechanical keyboards
 
