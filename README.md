@@ -4,9 +4,10 @@ I'm René Cáceres, a web developer based in Santiago, Chile.
 
 I've recently graduated from a 14-week intensive coding boot camp, where I learned 	**full stack web development**. I've also completed one year of coursework in **Computer Science** at the University of Santiago, Chile.
 
-I'm currently looking for my first opportunity in the industry, be it an internship, part-time or full-time position
+I'm currently looking for my first opportunity in the industry, be it an internship, part-time or full-time position.
 
-### Feel free to contact me! <br> [![](https://img.shields.io/badge/linkedin-1d4ed8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renecaceresdeveloper/)
+### [✌️ Feel free to contact me!](https://www.linkedin.com/in/renecaceresdeveloper/)
+Checkout my portfolio site 👉 [rene.fun](https://www.rene.fun/)
 
 ### Technical Skills:
 
