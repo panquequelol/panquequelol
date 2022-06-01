@@ -1,6 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> ¡Hola!
-
-I'm René Cáceres, a web developer based in Santiago, Chile.
+## 👋 ¡Hola! I'm web developer based in Santiago, Chile.
 
 I've recently graduated from a 14-week intensive coding boot camp, where I learned 	**full stack web development**. I've also completed one year of coursework in **Computer Science** at the University of Santiago, Chile.
 
