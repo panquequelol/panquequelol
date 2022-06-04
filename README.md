@@ -11,11 +11,11 @@ Checkout my portfolio site 👉🏽 [rene.fun](https://www.rene.fun/)
 
 **Languages** <br>
 [![](https://img.shields.io/badge/javascript-ca8a04?style=for-the-badge&logo=javascript&logoColor=white)](https://nextjs.org/)
-[![](https://img.shields.io/badge/python-2563eb?style=for-the-badge&logo=python&logoColor=white)](https://reactjs.org/)
+[![](https://img.shields.io/badge/python-0891b2?style=for-the-badge&logo=python&logoColor=white)](https://reactjs.org/)
 
 **Frontend** <br>
 [![](https://img.shields.io/badge/next.js-1f2937?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![](https://img.shields.io/badge/react.js-0369a1?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![](https://img.shields.io/badge/react.js-0ea5e9?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![](https://img.shields.io/badge/tailwindcss-0d9488?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 
 **Backend** <br>
