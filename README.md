@@ -7,12 +7,9 @@ I'm currently looking for my first opportunity in the industry, be it an interns
 ### [✌🏽 Feel free to contact me!](https://www.linkedin.com/in/renecaceresdeveloper/)
 Checkout my portfolio site 👉🏽 [rene.fun](https://www.rene.fun/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caceresrene&layout=compact)](https://github.com/caceresrene/github-readme-stats)
+
 ### Technical Skills:
-
-**Languages** <br>
-[![](https://img.shields.io/badge/javascript-ca8a04?style=for-the-badge&logo=javascript&logoColor=white)](https://nextjs.org/)
-[![](https://img.shields.io/badge/python-0891b2?style=for-the-badge&logo=python&logoColor=white)](https://reactjs.org/)
-
 **Frontend** <br>
 [![](https://img.shields.io/badge/next.js-1f2937?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![](https://img.shields.io/badge/react.js-0ea5e9?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
