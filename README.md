@@ -8,16 +8,7 @@ I'm currently looking for my first opportunity in the industry, be it an interns
 Checkout my portfolio site 👉🏽 [rene.fun](https://www.rene.fun/)
 
 ### Technical Skills:
-**Frontend** <br>
-[![](https://img.shields.io/badge/next.js-1f2937?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
-[![](https://img.shields.io/badge/react.js-0ea5e9?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![](https://img.shields.io/badge/tailwindcss-0d9488?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
-
-**Backend** <br>
-[![](https://img.shields.io/badge/flask-292524?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/)
-[![](https://img.shields.io/badge/express.js-475569?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![](https://img.shields.io/badge/mongodb-166534?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![](https://img.shields.io/badge/mysql-c2410c?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+![skills](https://skillicons.dev/icons?i=html,css,js,python,react,next,tailwind,flask,express,mongodb,mysql&theme=dark)
 
 ### 🕺🏽 I'm currently listening to
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d2fg2ca2su9wkpbzk5ahlmqu8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
