@@ -7,8 +7,6 @@ I'm currently looking for my first opportunity in the industry, be it an interns
 ### [✌🏽 Feel free to contact me!](https://www.linkedin.com/in/renecaceresdeveloper/)
 Checkout my portfolio site 👉🏽 [rene.fun](https://www.rene.fun/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caceresrene&layout=compact)](https://github.com/caceresrene/github-readme-stats)
-
 ### Technical Skills:
 **Frontend** <br>
 [![](https://img.shields.io/badge/next.js-1f2937?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
@@ -20,3 +18,6 @@ Checkout my portfolio site 👉🏽 [rene.fun](https://www.rene.fun/)
 [![](https://img.shields.io/badge/express.js-475569?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 [![](https://img.shields.io/badge/mongodb-166534?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![](https://img.shields.io/badge/mysql-c2410c?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### 🕺🏽 I'm currently listening to
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d2fg2ca2su9wkpbzk5ahlmqu8&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
