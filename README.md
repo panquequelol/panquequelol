@@ -1,4 +1,4 @@
-## 👋🏽 ¡Hola! I'm web developer based in Santiago, Chile.
+## 👋🏽 Hola, I'm web developer based in Santiago, Chile.
 
 I've recently graduated from a 14-week intensive coding boot camp, where I learned 	**full stack web development**. I've also completed one year of coursework in **Computer Science** at the University of Santiago, Chile.
 
