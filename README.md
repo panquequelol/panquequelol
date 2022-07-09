@@ -9,7 +9,7 @@
 ![](https://img.shields.io/badge/-React-2F3648?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/-Next.js-2F3648?style=for-the-badge&logo=Next.js)
 ![](https://img.shields.io/badge/-Express.js-2F3648?style=for-the-badge&logo=Express)
-![](https://img.shields.io/badge/-TailwindCSS-2F3648?style=for-the-badge&logo=Tailwindcss)
+![](https://img.shields.io/badge/-Tailwind&nbsp;CSS-2F3648?style=for-the-badge&logo=Tailwindcss)
 ![](https://img.shields.io/badge/-MongoDB-2F3648?style=for-the-badge&logo=Mongodb)
 
 ### 🎵 I'm currently listening to
