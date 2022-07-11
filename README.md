@@ -2,7 +2,10 @@
 <h1 align="center">👋🏽 Hi, I'm Software Developer based in Chile (GMT-4)</h3>
 </p>
 
-<img align="right" alt="Rene Caceres standing" src="./img/standing.png" width="400"/>
+<img align="right" alt="Rene Caceres standing" src="./img/laptop.png" width="400"/>
+
+### 🌱 Currently learning
+![](https://img.shields.io/badge/-TypeScript-2F3648?style=for-the-badge&logo=TypeScript)
 
 ### 🛠️ Tech I enjoy using
 ![](https://img.shields.io/badge/-Preact-2F3648?style=for-the-badge&logo=Preact)
