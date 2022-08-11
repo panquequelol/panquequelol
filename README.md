@@ -1,5 +1,5 @@
 <p>
-<h1 align="center">👋🏽 Hi, I'm software engineer based in Chile</h1>
+<h1 align="center">👋🏽 Hi, I'm software developer based in Chile</h1>
 </p>
 
 <img align="right" alt="Rene Caceres standing" src="./img/laptop.png" width="400"/>
@@ -7,7 +7,7 @@
 ### 🛠️ Tech I enjoy using
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwindcss,expressjs" />
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwindcss,expressjs" />
   </a>
 </p>
 
