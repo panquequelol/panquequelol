@@ -1,6 +1,6 @@
 ### Hi 👋🏽
 
-I'm a frontend developer interested in open-source
+I'm a frontend developer interested in open-source.
 
 #### NOW
 
@@ -10,5 +10,5 @@ I'm a frontend developer interested in open-source
 #### BEFORE
 
 - Built interfaces for open-source state transparency tools used by journalists at the [America Transparente Foundation](http://americatransparente.org/)
-- Began the development of a dashboard for business to measure their social impact at [Kellun (SUP 22')](https://www.kellun.org/)
-- Full Stack developer at a shitty consultancy company
+- Began the development of a dashboard for business to measure their social impact at [Kellun (SUP 22')](https://www.kellun.org/).
+- Full Stack developer at a small consultancy company.
