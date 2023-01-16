@@ -1,6 +1,6 @@
 ### Hi 👋🏽
 
-I'm a frontend developer interested in open-source.
+I'm a frontend developer interested in open-source
 
 #### NOW
 
