@@ -4,7 +4,7 @@ I'm a frontend developer interested in open-source
 
 #### NOW
 
-- 🚀 Incoming Software Engineer at a fintech
+- 🚀 Incoming Software Engineer at a fintech.
 - 🦁 Member of [USACH Open Source](https://github.com/open-source-usach) a student-led organization that builds software for the community!
 
 #### BEFORE
