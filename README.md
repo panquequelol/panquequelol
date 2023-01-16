@@ -1,4 +1,4 @@
-#### Hi 👋🏽
+### Hi 👋🏽
 
 I'm a frontend developer interested in open-source
 
