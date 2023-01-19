@@ -4,8 +4,9 @@ I'm a frontend developer interested in open-source
 
 #### NOW
 
-- 🚀 Incoming Software Engineer at a fintech.
-- 🦁 Member of [USACH Open Source](https://github.com/open-source-usach) a student-led organization that builds software for the community!
+- 🚀 Incoming Software Engineer at a [Forpay](https://www.forpay.cl/).
+- 🦁 Member of [USACH Open Source](https://github.com/open-source-usach) a student-led organization that builds software for the community of the University of Santiago, Chile!
+- 🧑🏽‍🚀 Lending a hand to the Development team at Tharsis, the project that will represent the National University of Engineering (Peru) at the NASA Human Exploration Rover Challenge.
 
 #### BEFORE
 
