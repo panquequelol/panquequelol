@@ -6,6 +6,6 @@ In my free time, I collaborate on open-source projects at [Open Source USACH](ht
 
 Previously I built interfaces for open-source tools used in state transparency and investigative journalism at the [America Transparente Foundation](https://americatransparente.org/), and I worked at a small consultancy company doing full-stack development.
 
-I code in `JavaScript`, `TypeScript`, `React` and `Tailwind CSS`
+I code in `JavaScript`, `TypeScript`, `React` and `Tailwind CSS`.
 
-I'm currently learning `Hono.js` and `Cloudflare Workers`, and I'd like to learn `Julia` in the future!
+I'm currently learning `Hono.js` and `Cloudflare Workers`.
