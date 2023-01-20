@@ -1,21 +1,11 @@
-### Hi 👋🏽
+## Hi 👋🏽
 
-I'm a frontend developer interested in open-source
+I'm a Software Engineer at [Forpay](https://cl.forpay.cl/), a fintech that does recurrent payments and subscriptions.
 
-#### NOW
+In my free time, I collaborate on open-source projects at [Open Source USACH](https://github.com/open-source-usach), and I help the development team at [Tharsis](https://www.infobae.com/america/peru/2022/10/23/un-auto-espacial-disenado-en-la-uni-sorprende-a-la-nasa-esta-entre-los-mejores-del-mundo/), the project that will represent the National University of Engineering (Peru) in the NASA Human Exploration Rover Challenge.
 
-- 🚀 Incoming Software Engineer at a [Forpay](https://www.forpay.cl/).
-- 🦁 Member of [USACH Open Source](https://github.com/open-source-usach) a student-led organization that builds software for the community of the University of Santiago, Chile!
-- 🧑🏽‍🚀 Lending a hand to the Development team at Tharsis, the project that will represent the National University of Engineering (Peru) at the NASA Human Exploration Rover Challenge.
+Previously I built interfaces for open-source tools used in state transparency and investigative journalism at the [America Transparente Foundation](https://americatransparente.org/), and I worked at a small consultancy company doing full-stack development.
 
-#### BEFORE
+I code in `JavaScript`, `TypeScript`, `React` and `Tailwind CSS`
 
-- 🏛️ Built interfaces for open-source tools used in state transparency and investigative journalism at the [America Transparente Foundation](http://americatransparente.org/).
-- 🧩 Began the development of a dashboard for business to measure their social impact at [Kellun (SUP 22')](https://www.kellun.org/).
-- 🧑🏽‍💻 Full Stack developer at a small consultancy company.
-
-#### ABOUT
-
-- 💖 Tech I love:  `JavaScript` `TypeScript` `React` `Tailwind CSS`
-- 📩 Contact: rene[at]outlook.my
-- 👌 Feel free to DM me on [Twitter](https://twitter.com/panquequelol) or connect with me on [Linkedin](https://www.linkedin.com/in/renecaceresdeveloper/)
+I'm currently learning `Hono.js` and `Cloudflare Workers`, and I'd like to learn `Julia` in the future!
