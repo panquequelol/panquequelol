@@ -1,7 +1,12 @@
-#### Hi ✌️
+### *René Cáceres*
+#### Self-taught Programmer
 
-#### Software Engineer @ Forpay, I do frontend and open source in my spare time!
+#### Currently
+- 💼 Software Engineer @ Forpay
+- 🤝 Founding Member @ Open Source USACH
 
-#### Currently listening to
+#### Before
+- 🏛️ Frontend Developer @ America Transparente Foundation
+- 🫂 Volunteer Developer @ Kellun (SUP'22)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d2fg2ca2su9wkpbzk5ahlmqu8&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=d2fg2ca2su9wkpbzk5ahlmqu8&redirect=true)
+#### DMs are open 🐦 [@panquequelol](https://twitter.com/panquequelol)
