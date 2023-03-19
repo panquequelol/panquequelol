@@ -1,12 +1,12 @@
 ### *René Cáceres*
-#### Self-taught Programmer.
+#### Self-taught Programmer from southern Chile.
 
 #### Currently
-- 💼 Software Engineer @ Forpay.
-- 🤝 Founding Member @ [Open Source USACH](https://github.com/open-source-usach).
+- 💼 Software Engineer at Forpay.
+- 🤝 Founding Member at [Open Source USACH](https://github.com/open-source-usach).
 
 #### Before
-- 🏛️ Frontend Developer @ [América Transparente Foundation](https://americatransparente.org/).
-- 🫂 Volunteer Developer @ Kellun (SUP'22).
+- 🏛️ Frontend Developer at [América Transparente Foundation](https://americatransparente.org/).
+- 🫂 Volunteer Developer at Kellun (SUP'22).
 
 #### 🐦 DMs are open [@panquequelol](https://twitter.com/panquequelol).
