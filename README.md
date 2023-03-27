@@ -6,7 +6,7 @@
 - 🤝 Founding Member at [Open Source USACH](https://github.com/open-source-usach).
 
 #### Before
-- 🏛️ Frontend Developer at [América Transparente Foundation](https://americatransparente.org/).
+- 🏛️ Software Developer at [América Transparente Foundation](https://americatransparente.org/).
 - 🫂 Volunteer Developer at Kellun (SUP'22).
 
 #### 🐦 DMs are open [@panquequelol](https://twitter.com/panquequelol).
