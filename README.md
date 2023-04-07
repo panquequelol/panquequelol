@@ -1,4 +1,3 @@
-### *René Cáceres*
 #### Self-taught Programmer from southern Chile.
 
 #### Currently
