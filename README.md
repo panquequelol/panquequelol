@@ -1,12 +1,3 @@
-#### Self-taught Programmer from southern Chile.
-
-#### Currently
-- ✨ Building something
-- 🤝 Founding Member at [Open Source USACH](https://github.com/open-source-usach).
-
-#### Before
-- 💳 Software Engineer at Forpay.
-- 🏛️ Software Developer at [América Transparente Foundation](https://americatransparente.org/).
-- 🫂 Volunteer Developer at Kellun (SUP'22).
-
-#### 🐦 DMs are open [@panquequelol](https://twitter.com/panquequelol).
+<p align="center">
+  <img src="https://media.tenor.com/Iw4VwVep_H4AAAAC/gundam-witch-suletta-miorine-gundam-witch-love.gif" />
+</p>
