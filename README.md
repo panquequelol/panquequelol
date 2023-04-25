@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-185.gif" />
-</p>
+Yo, if you are looking for my resume [it's here](https://github.com/panquequelol/resume)
