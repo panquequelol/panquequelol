@@ -1,4 +1,3 @@
-<h5 align="center">me on my way to push more bugs to the code base</h5>
 <p align="center">
-  <img width="600" src="https://media.tenor.com/IoOYgK36AL8AAAAC/cinema-zoolander.gif" />
+  <img width="600" src="https://preview.redd.it/a-long-deconstruction-of-belaf-for-all-you-nerds-out-there-v0-4b43fya5i54b1.png?width=730&format=png&auto=webp&s=c11dae913b4a26d3fa96eaa2b1446aa35dd9ee30" />
 </p>
