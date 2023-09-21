@@ -1,6 +1,6 @@
 <p align="center">
-read left to right
+currently reading: witch hat atelier
 </p>
 <p align="center">
-  <img width="600" src="https://preview.redd.it/a-long-deconstruction-of-belaf-for-all-you-nerds-out-there-v0-4b43fya5i54b1.png?width=730&format=png&auto=webp&s=c11dae913b4a26d3fa96eaa2b1446aa35dd9ee30" />
+  <img width="300" src="https://mangadex.org/covers/67e7453b-9ee5-4ae5-9316-215b03e4a71d/5961facb-b11b-4f38-bbfa-6fec800bfe1a.jpg" />
 </p>
