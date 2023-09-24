@@ -1,6 +1,3 @@
-<p align="center">
-currently reading: witch hat atelier
-</p>
-<p align="center">
-  <img width="300" src="https://mangadex.org/covers/67e7453b-9ee5-4ae5-9316-215b03e4a71d/5961facb-b11b-4f38-bbfa-6fec800bfe1a.jpg" />
-</p>
+listening to
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=d2fg2ca2su9wkpbzk5ahlmqu8&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=d2fg2ca2su9wkpbzk5ahlmqu8&redirect=true)
