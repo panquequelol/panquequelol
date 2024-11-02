@@ -1,3 +1,3 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=d2fg2ca2su9wkpbzk5ahlmqu8&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=d2fg2ca2su9wkpbzk5ahlmqu8&redirect=true)
 
-<img align="center" alt="meme" src="/img/puter.jpeg" width="450" />
+<img align="center" alt="meme" src="https://instagram.fccp1-1.fna.fbcdn.net/v/t39.30808-6/459980471_17861927952232489_1754169137523108133_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xMTcweDExNjUuc2RyLmYzMDgwOC5kZWZhdWx0X2ltYWdlIn0&_nc_ht=instagram.fccp1-1.fna.fbcdn.net&_nc_cat=101&_nc_ohc=p6DFrvdHPXgQ7kNvgFZMEiI&_nc_gid=849b0284af894285be26e99f30c8da96&edm=ACOOH6wAAAAA&ccb=7-5&ig_cache_key=MzQ1ODIyNDk5MTk2MjYyMDMyOA%3D%3D.3-ccb7-5&oh=00_AYAdkLmhqRK2ZXpDRLMP_bIRABmO6L7yxs5fDF0NXjBUQw&oe=672C28A7&_nc_sid=aa4e97" width="450" />
